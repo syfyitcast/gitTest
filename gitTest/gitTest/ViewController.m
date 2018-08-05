@@ -16,7 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-<<<<<<< HEAD
     //dev commit 1
     NSLog(@"dev commit 1");
     NSLog(@"dev commit 2");
