@@ -18,6 +18,7 @@
     [super viewDidLoad];
     //dev commit 1
     NSLog(@"dev commit 1");
+    NSLog(@"xf0002 commt 2");
 }
 
 
