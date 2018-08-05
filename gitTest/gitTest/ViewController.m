@@ -16,7 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    //dev commit 1
+    NSLog(@"dev commit 1");
 }
 
 
