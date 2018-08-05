@@ -16,10 +16,15 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+<<<<<<< HEAD
     //dev commit 1
     NSLog(@"dev commit 1");
     NSLog(@"dev commit 2");
     NSLog(@"dev commit 3");
+    //commit 1
+    NSLog(@"xf 0001 commit 1");
+    NSLog(@"xf 0002 commit 2");
+
 }
 
 
