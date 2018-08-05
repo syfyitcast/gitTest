@@ -18,6 +18,7 @@
     [super viewDidLoad];
     //dev commit 1
     NSLog(@"dev commit 1");
+
     NSLog(@"dev commit 2");
     NSLog(@"dev commit 3");
     //commit 1
@@ -25,6 +26,9 @@
     NSLog(@"xf 0002 commit 2");
     NSLog(@"dev commit 4");
     
+
+
+    NSLog(@"xf0002 commt 2");
 
 }
 
